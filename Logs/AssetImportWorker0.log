@@ -466,3 +466,11 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1240.627494 seconds.
+  path: Assets/AdventureForge/PreFab/Mushroom/CapBell_StalkBolbous/CapBell_StalkBolbous_01/CapBellShaped_StalkBolbous_LOD0_Type01.prefab
+  artifactKey: Guid(f37617cacbbdd7044a7ead5889c835b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureForge/PreFab/Mushroom/CapBell_StalkBolbous/CapBell_StalkBolbous_01/CapBellShaped_StalkBolbous_LOD0_Type01.prefab using Guid(f37617cacbbdd7044a7ead5889c835b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6d3ed7cba83ab7f196a4598f143d9db') in 0.496154 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
