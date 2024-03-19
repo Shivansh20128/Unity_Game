@@ -1,0 +1,4 @@
+repository "GDD_Architecture@arush20181@cloud"
+  path "/"
+    br "/main"
+    co "/main"
